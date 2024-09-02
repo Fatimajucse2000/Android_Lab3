@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Lab_2</string>
+    <string name="find">Find Books</string>
+    <string name="infoss">Books</string>
+    <string-array name="spinner">
+        <item>Science</item>
+        <item>Commerce</item>
+        <item>Arts</item>
+    </string-array>
+</resources>
